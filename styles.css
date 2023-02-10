@@ -1,0 +1,41 @@
+body {
+    background-color: hsl(220, 15%, 55%);
+}
+
+.main {
+    text-align: center;
+    background-color: white;
+    padding: 15px;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+    margin-top: 6.5rem;
+    border-radius: 5%;
+}
+
+img {
+    width: 18.5rem;
+    height: 18.5rem;
+    border-radius: 5%;
+}
+
+.info {
+    line-height: 1.2;
+    padding: 0px 13px 0;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+    margin: 9% 0 1% 0;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+@media (maxwidth: 800px) {
+    .main {
+        margin-top: 25%;
+    }
+}
