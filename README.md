@@ -17,8 +17,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [QR-code Solution](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-html-and-css-NOPJWObvgs)
+- Live Site URL: [Live site URL](https://atharva-0710.github.io/QR-Code-Component/)
 
 ## My process
 
@@ -36,8 +36,8 @@ I centered the section horizontally using margin: auto;
 
 ### Useful resources
 
-- [Example resource 1](https://developer.mozilla.org) - This helped me for understanding how border-radius property works. I really liked there way of explaining.
-- [Example resource 2](https://www.w3schools.com) - This website has amazing article which helped me finally understand centering myy section. I'd recommend it to anyone who are beginners to front-end development.
+- [MDN docs](https://developer.mozilla.org) - This helped me for understanding how border-radius property works. I really liked there way of explaining.
+- [w3schools](https://www.w3schools.com) - This website has amazing article which helped me finally understand centering myy section. I'd recommend it to anyone who are beginners to front-end development.
 
 
 
